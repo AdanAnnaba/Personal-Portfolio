@@ -1,10 +1,12 @@
 import React from 'react';
-import { ContactUs } from './ContactUs';
+import AboutMe from './AboutMe';
+import Projects from './Projects';
 
 const Home = () => {
     return (
         <div>
-           <ContactUs></ContactUs>
+            <AboutMe></AboutMe>
+            <Projects></Projects>
         </div>
     );
 };
