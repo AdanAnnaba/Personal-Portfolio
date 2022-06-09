@@ -1,16 +1,17 @@
 import React from 'react';
+import picture from './../asset/pic.jpg';
 
 const AboutMe = () => {
     return (
         <div>
             <div class="card card-side bg-base-100 shadow-xl">
-  <figure><img src="https://api.lorem.space/image/movie?w=200&h=280" alt="Movie"/></figure>
+  <figure><img src={picture} alt="Movie"/></figure>
   <div class="card-body">
-    <h2 class="card-title">New movie is released!</h2>
-    <p>Click the button to watch on Jetflix app.</p>
-    <div class="card-actions justify-end">
-      <button class="btn btn-primary">Watch</button>
-    </div>
+    <h2 class="card-title">NAHID AHMMED LIKHON</h2>
+    <h4>Junior Web Developer</h4>
+    <p>I would like to be a part of an organization where I could use and enhance my knowledge and talent for the
+development of both the organization and myself.
+</p>
   </div>
 </div>
         </div>
