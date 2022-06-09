@@ -7,7 +7,7 @@ const Projects = () => {
     return (
        <div>
            <div className='text-center text-4xl mt-5 font-serif font-bold'>Latest Projects</div>
-            <div className='grid grid-cols-3 mt-8 ml-14'>
+            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mt-8 ml-14'>
           <div class="card w-96 bg-base-100 shadow-xl">
           <figure class="px-10 pt-10">
           <img src={project1} alt="Shoes" class="rounded-xl" />
