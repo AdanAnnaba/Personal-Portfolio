@@ -6,8 +6,10 @@ const Header = () => {
         <div>
             <div class="navbar bg-neutral text-neutral-content justify-between">
             <Link to='/' class="btn btn-ghost normal-case text-xl">Welcome to my portfolio</Link>
-            <Link to='contactme' class="">Contact Me</Link>
+           <div>
+           <Link to='contactme' class="mr-4">Contact Me</Link>
             <a href="https://drive.google.com/u/0/uc?id=1F0bYHrqidcR1xIqposRAXueiZHK6bHqO&export=download">Download Resume</a>
+           </div>
             </div>
             
         </div>
