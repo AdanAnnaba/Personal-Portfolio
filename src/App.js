@@ -5,7 +5,7 @@ import Header from './Pages/Header';
 
 function App() {
   return (
-    <div>
+    <div className='bg-slate-400'>
       <Header></Header>
       <Routes>
       <Route path='/' element={<Home></Home>}></Route>

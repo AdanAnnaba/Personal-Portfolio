@@ -16,7 +16,7 @@ const Projects = () => {
           <h2 class="card-title">Web Site Name: Annaba Tools</h2>
           <p>Its an wonderful website about Tools collection.</p>
           <div class="card-actions">
-       <button class="btn btn-accent">Project Details</button>
+          <a class="btn btn-accent" href="https://annaba-91b92.web.app/">Project Details</a>
        </div>
       </div>
      </div>
@@ -28,7 +28,7 @@ const Projects = () => {
           <h2 class="card-title">Web Site Name: Prime Dental Care</h2>
           <p>This is a very usefull website for a Dentist </p>
           <div class="card-actions">
-       <button class="btn btn-accent">Project Details</button>
+          <a class="btn btn-accent" href="https://deluxe-brigadeiros-a7caab.netlify.app/">Project Details</a>
        </div>
       </div>
      </div>
@@ -40,7 +40,7 @@ const Projects = () => {
           <h2 class="card-title">Web Site Name: Watch World</h2>
           <p>Its so Dynamic website for a business.</p>
           <div class="card-actions">
-       <button class="btn btn-accent">Project Details</button>
+          <a class="btn btn-accent" href="https://glowing-muffin-825ec2.netlify.app/Home/">Project Details</a>
        </div>
       </div>
      </div>

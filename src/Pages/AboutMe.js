@@ -10,7 +10,7 @@ const AboutMe = () => {
     <h2 class="card-title">NAHID AHMMED LIKHON</h2>
     <h4>Junior Web Developer</h4>
     <p>I would like to be a part of an organization where I could use and enhance my knowledge and talent for the
-development of both the organization and myself.
+       development of both the organization and myself.
 </p>
   </div>
 </div>
